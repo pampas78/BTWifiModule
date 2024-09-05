@@ -17,8 +17,8 @@
 #elif defined(PCB_WROOM)
 
 #define UART_NUM UART_NUM_2
-#define UART_TXPIN 18
-#define UART_RXPIN 19
+#define UART_TXPIN 17
+#define UART_RXPIN 16
 
 #elif defined(PCB_C3MINI)
 
